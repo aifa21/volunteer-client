@@ -1,0 +1,40 @@
+
+
+.HeaderSection {
+    background-image: url('../../components/images/extraVolunteer.png');
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100%;
+}
+
+.HeaderSection .container-fluid {
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.HeaderSection .row {
+    background-color: #edeef0cc;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+
+
+
+.HeaderSearch{
+    width: 550px;
+    margin:100px auto;
+    text-align: center;
+}
+.EventContainer {
+    background-color: #fff;
+    padding: 50px 10px;
+}
+
+.Section {
+    width: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
